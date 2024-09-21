@@ -16,5 +16,21 @@ IP落地区域: 甲骨文 维护频率: 4小时/次
 proxyip.digitalocean.fxxk.dedyn.io 
 IP落地区域: 数码海 维护频率: 4小时/次
 
-bestproxy.onecf.eu.org
-ipdb.rr.nu
+白嫖哥维护
+workers.cloudflare.cyou
+
+Mingyu维护
+my-telegram-is-herocore.onecf.eu.org
+sg.ipdb.rr.nu
+nl.ipdb.rr.nu
+hk.ipdb.rr.nu
+jp.ipdb.rr.nu
+us.ipdb.rr.nu
+
+
+小一维护
+hk.cf.zhetengsha.eu.org
+sg.cf.zhetengsha.eu.org
+us.cf.zhetengsha.eu.org
+jp.cf.zhetengsha.eu.org
+
