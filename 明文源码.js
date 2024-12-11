@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '3d34724d-6dd7-44ff-90f6-64b97129d704';
-let proxyIP = 'proxyip.aliyun.fxxk.dedyn.io';
+let proxyIP = '';
 let dohURL = 'https://dns.google/dns-query'; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 let sub = '';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
